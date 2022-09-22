@@ -5,6 +5,7 @@ from phonenumbers import timezone
 import os, time, sys
 
 time.sleep(1)
+os.system('clear')
 number = input('Enter your phone number: ')
 
 time.sleep(2)
